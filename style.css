@@ -1,0 +1,28 @@
+body {
+    width: 70%;
+    font-weight: 70%;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1{
+    size: 32px;
+    padding-top: 1.5em ;
+}
+
+figure {
+    
+    padding-top: 0;
+    float: right;
+}
+figcaption {
+    padding: 0.5em;
+    font-style: italic;
+    
+}
+
+table, th, caption,td  {
+    border: 1px solid black;
+}
+
